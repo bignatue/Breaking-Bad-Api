@@ -2,7 +2,7 @@
 
 ![Design preview for Relaxer App](./preview.jpg)
 
-## Leaning Scope
+## Learning Scope
 
 - useState & App State
 - useEffect & HTTP Request
